@@ -3,3 +3,63 @@
     font-weight: 400;
     font-style: normal;
 }
+
+.nav-item a:hover{
+color: #198754;
+}
+.user-laft i:hover{
+color: blueviolet;
+}
+#hero-section{
+    background-image: url(../skills-test-images/billboard-bg.png);
+    background-repeat: no-repeat;
+}
+.text-fiuld{
+    font-size: 87px;
+    font-weight: 200;
+}
+.secound-text-fiuld{
+    font-size: 28px;
+    font-weight: 300;
+    color: #505050;
+}
+.img-fiuld{
+max-width: 100%;
+height: auto;
+}
+#features{
+    position: relative;
+}
+.feature-box-section{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.feature-item{
+    box-shadow: 4px 4px 10px rgba(150, 150, 150, 0.192);
+    background-color: #ffffff;
+    cursor: pointer;
+}
+.feature-box :hover{
+background-color: #4cc082;
+color: aliceblue;
+transition: all 0.4s ease-in;
+}
+.feature-detaile h3{
+    font-weight: 800;
+    font-size: 39px;
+    color: #ec6c5a;  
+}
+.feature-detaile h6{
+    text-transform: uppercase;
+}
+.about-section{
+    margin-top: 20%;
+}
+.img-fiuld-section img{
+ max-width: 100%;
+}
+.categories-head {
+    margin-top: 12%;
+}
