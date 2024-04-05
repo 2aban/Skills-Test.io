@@ -63,3 +63,45 @@ transition: all 0.4s ease-in;
 .categories-head {
     margin-top: 12%;
 }
+.primary{
+    background-color: #e2f3f0;
+    transition: all 0.3s ease-in;
+}
+.primary:hover{
+    background-color: #36c467;
+    color: #ffffff;
+    transition: all 0.5s ease-in;
+}
+.img-style{
+    font-size: 50px;
+}
+.gray{
+    background-color: #e0e5eb;
+    transition: all 0.3s ease-in;
+}
+.gray:hover{
+    background-color: #606060;
+    color: #ffffff;
+    transition: all 0.3s ease-in;
+}
+.warning{
+    background-color: #ffeed3;
+    transition: all 0.3s ease-in;
+}
+.warning:hover{
+    background-color: #ffc71f;
+    color: #ffffff;
+    transition: all 0.3s ease-in;
+}
+.red{
+    background-color: #fa9e85;
+    transition: all 0.3s ease-in;
+}
+.red:hover{
+    background-color: #ff5e45;
+    color: #ffffff;
+    transition: all 0.3s ease-in;
+}
+.Online-Courses{
+    margin-top: 100px;
+}
