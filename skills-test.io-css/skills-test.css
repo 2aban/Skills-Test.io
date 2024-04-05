@@ -105,3 +105,28 @@ transition: all 0.4s ease-in;
 .Online-Courses{
     margin-top: 100px;
 }
+.course-title:hover{
+    color: #147135;
+    transition: all 0.3s ease-in;
+}
+.Reviews-Section{
+    background-color: #e2f3f0;
+    margin-top: 100px;
+}
+.our-teachers{
+    margin-top: 100px;
+}
+.image-holder{
+    height:auto;
+    overflow: hidden
+}
+.image-holder img{
+    width: 100%;
+    transition: all .3s ease-in-out;  
+}
+.image-holder img:hover{
+    transform: scale(1.5);
+}
+.core-features{
+    margin-top: 150px;
+}
