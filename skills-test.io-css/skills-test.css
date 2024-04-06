@@ -130,3 +130,29 @@ transition: all 0.4s ease-in;
 .core-features{
     margin-top: 150px;
 }
+.chack{
+    background: rgb(240, 116, 105);
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+.subscribe-email{
+    background-color: #f1e2b6;
+}
+.padding-medium {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+/* .social-icon ul li{
+list-style: none;
+} */
+.social-icon ul li:hover{
+    color: #36c467;
+}
+.menu-item a{
+text-decoration: none;
+color: #7d7d7d;
+}
+.menu-item a:hover{
+    color: #36c467;
+}
